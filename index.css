@@ -1,0 +1,26 @@
+.buttonCheck {
+    max-width: 6rem;
+    margin: auto;
+}
+
+h2 {
+    color: black;
+    font-size: 4rem;
+    text-align: center;
+        
+}
+footer {
+    color: rgb(107, 70, 2);
+    padding: 5rem;
+    margin: auto;
+
+}
+body{
+    background-color: lightblue;
+
+}
+.buttonNext {
+    display: block;
+    margin: right;
+    
+}
